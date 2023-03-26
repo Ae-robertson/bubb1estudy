@@ -27,7 +27,7 @@
              .title-5 {
                 color: black;
                 font-size: 48;
-                font-family: Arial, Helvetica, sans-serif;
+                font-family: 'Mulish', sans-serif;
              }
 
 
@@ -36,13 +36,14 @@
                 height: 100%;
                 position: fixed;
                 float: left;
-                text-align: left;
+                text-align: center;
                 background-color: white;
              }
+
              .header {
                float: right;
                padding-left: 25px;
-               text-align: left;
+               text-align: center;
                width: 90%;
                height: 90%;
                color: maroon;
@@ -52,7 +53,7 @@
 
              .bodytext {
                 width: 25%;
-                height: 90%;
+                height: 70%;
                 position: fixed;
                 padding-right: 20px;
                 padding-left: 15px;
@@ -60,14 +61,13 @@
                 float: right;
                 text-align: left;
                 overflow: auto;
-                font-family: 'Montserrat', sans-serif;
              }
 
              .picbody {
                 width: 65%;
-                height: 70%;
+                height: 75%;
                 float: right;
-                top: 10%;
+                top: 15%;
                 right: 0;
                 position: fixed;
                 padding-left: 10px;
@@ -87,6 +87,7 @@
                 padding-left: 30%;
                 padding-bottom: 150px;
                 text-align: right;
+                font-family: 'Montserrat', sans-serif;
                 }
 
             .homeicon {
@@ -106,6 +107,7 @@
                 a {
                   color: navy;
                   text-decoration: none;
+                  font-weight: bolder;
                   font-family: 'Exo', sans-serif;
                   font-size: large;
                 }

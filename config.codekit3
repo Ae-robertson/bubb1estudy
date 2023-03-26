@@ -106,11 +106,11 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/assets\/images\/chumbucket2.png" : {
+    "\/assets\/images\/chumbucket.png" : {
       "ft" : 32768,
-      "iS" : 107979,
+      "iS" : 577796,
       "oA" : 0,
-      "oAP" : "\/assets\/images\/chumbucket2.png",
+      "oAP" : "\/assets\/images\/chumbucket.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -132,11 +132,11 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/assets\/images\/fancy2.png" : {
+    "\/assets\/images\/fancy.png" : {
       "ft" : 32768,
-      "iS" : 111741,
+      "iS" : 573405,
       "oA" : 0,
-      "oAP" : "\/assets\/images\/fancy2.png",
+      "oAP" : "\/assets\/images\/fancy.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -150,6 +150,19 @@
       "iS" : 87959,
       "oA" : 0,
       "oAP" : "\/assets\/images\/field2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/filedbig.png" : {
+      "ft" : 32768,
+      "iS" : 343595,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/filedbig.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -197,11 +210,11 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/assets\/images\/saltyspitoon2.png" : {
+    "\/assets\/images\/saltyspitoon.png" : {
       "ft" : 32768,
-      "iS" : 110385,
+      "iS" : 638607,
       "oA" : 0,
-      "oAP" : "\/assets\/images\/saltyspitoon2.png",
+      "oAP" : "\/assets\/images\/saltyspitoon.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -236,11 +249,11 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/assets\/images\/weeniehutjr2.png" : {
+    "\/assets\/images\/weeniehutjr.png" : {
       "ft" : 32768,
-      "iS" : 105691,
+      "iS" : 500615,
       "oA" : 0,
-      "oAP" : "\/assets\/images\/weeniehutjr2.png",
+      "oAP" : "\/assets\/images\/weeniehutjr.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -264,6 +277,30 @@
       "oA" : 0,
       "oAP" : "\/assets\/javascripts\/navflex",
       "oF" : 0
+    },
+    "\/assets\/stylesheets\/aboutstyle-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/stylesheets\/aboutstyle-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/assets\/stylesheets\/aboutstyle.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/stylesheets\/aboutstyle-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/assets\/stylesheets\/cuisinestyle-min.css" : {
       "aP" : 1,
