@@ -30,7 +30,7 @@
   }
 
   body {
-    background-image: url(/assets/images/atollcover.png);
+    background-image: url(assets/images/atollcover.png);
     color: ffffff;
     background-size: cover;
     display: flex;
@@ -43,7 +43,7 @@
     height: 150px;
     float: right;
     text-align: center;
-    background-image: url(/assets/images/header.png);
+    background-image: url(assets/images/header.png);
   }
 
   .ul {
