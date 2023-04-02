@@ -1,0 +1,242 @@
+body {
+    width: 90%;
+    height: 100%;
+    margin: 0;
+    background-color: white;
+    bottom: 0;
+    background-image: url(../images/pagecovernew.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: auto;
+   }
+  
+   .title-1 {
+       color: black;
+       font-size: 48;
+       font-weight: bold;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+  
+   .title-2 {
+       color: white;
+       font-size: 16;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+  
+    .title-4 {
+       color: white;
+       font-size: 64;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       font-weight: bold;
+    }
+  
+    .title-5 {
+       color: black;
+       font-size: 48;
+       font-family: Arial, Helvetica, sans-serif;
+    }
+  
+    .header {
+      float: right;
+      padding-left: 25px;
+      padding-top: 20px;
+      text-align: center;
+      width: 90%;
+      height: 90%;
+      color: black;
+      font-size: xx-large;
+      font-family: 'Lobster Two', cursive;
+    }
+
+    .bodytext {
+        height: 30%;
+        float: right;
+        top: 0;
+        width: 80%;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        text-align: center;
+        color: maroon;
+        font-family: 'Mulish', sans-serif;
+      }
+  
+    .navbar {
+       width: 10%;
+       height: 100%;
+       top: 0;
+       position: fixed;
+       float: left;
+       text-align: left;
+    }
+  
+    .footer {
+       width: 100%;
+       height: 100px;
+       float: right;
+       text-align: center;
+       background-color: cornflowerblue;
+    }
+  
+    .ul {
+       list-style-type: none;
+       margin: 0;
+       padding-left: 30%;
+       padding-bottom: 150px;
+       text-align: right;
+       }
+  
+   .homeicon {
+       float: right;
+      position: fixed;
+       top: 5%;
+       padding-left: 15px;
+       }
+   
+   .socialmedia {
+       float: right;
+       position: right;
+       padding-right: 30px;
+       padding-bottom: 50px;
+       }
+  
+       a {
+          color: navy;
+          text-decoration: none;
+          font-family: 'Mulish', sans-serif;
+          font-size: large;
+        }
+  
+        .flex-container {
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: row;
+          justify-content: space-evenly;
+          padding: 0;
+        }
+        
+        .flex-container>div {
+          width: 20%;
+          padding: 5px;
+        }
+        
+        /* pam added */
+        .navbar-toggler {
+          display: none;
+        }
+        
+        
+        @media screen and (max-width: 750px) {
+          .flex-container>div {
+            width: 30%;
+          }
+        }
+        
+        @media screen and (max-width: 500px) {
+          .flex-container>div {
+            width: 45%;
+          }
+        
+          /* pam added */
+          .navbar-toggler {
+            position: absolute;
+            top: 10px;
+            display: block;
+          }
+      
+          article {
+            display: none;
+          }
+        }
+
+        .table {
+            float: right;
+            width: 80%;
+            padding-right: 20px;
+        }
+
+        table#your-table-items {
+            border-collapse: collapse;
+            /* in inspector mode - easier to see the difference between collapse and no collapse */
+            border: 1px solid black;
+            text-align: center;
+          }
+      
+          table#your-table-items th:nth-child(1),
+          table#your-table-items td:nth-child(1) {
+            width: 25%;
+          }
+      
+          table#your-table-items th:nth-child(2),
+          table#your-table-items td:nth-child(2) {
+            width: 20%;
+          }
+      
+          table#your-table-items th:nth-child(3),
+          table#your-table-items td:nth-child(3) {
+            width: 5%;
+          }
+      
+          table#your-table-items th:nth-child(4),
+          table#your-table-items td:nth-child(4) {
+            width: 25%;
+          }
+      
+          table#your-table-items thead {
+            font-size: 0.7em;
+            text-transform: uppercase;
+          }
+      
+          table#your-table-items thead th {
+            color: #fff;
+            background-color: darkblue;
+            padding: 8px;
+            font-family: 'Mulish', sans-serif;
+          }
+      
+          table#your-table-items thead th:hover {
+            color: #fff;
+            background-color: coral;
+            cursor: pointer;
+          }
+      
+          table#your-table-items thead th.tablesorter-headerAsc,
+          table#your-table-items thead th.tablesorter-headerDesc {
+            background-color: coral;
+          }
+      
+          table#your-table-items tbody {
+            font-size: 0.9em;
+            line-height: 15px;
+            background-color: lightseagreen;
+            opacity: 75%;
+            color: black;
+            font-family: 'Mulish', sans-serif;
+          }
+      
+          /*** make sure table#your-table-items tbody tr:nth-child(even) defined before table#your-table-items tbody tr:hover */
+          /*** otherwise, it would need to define table#your-table-items tbody tr:nth-child(even):hover*/
+          table#your-table-items tbody tr:nth-child(even) {
+            background: white;
+          }
+      
+          table#your-table-items tbody tr:hover {
+            color: black;
+            background-color: peachpuff;
+          }
+      
+          table#your-table-items tbody td {
+            padding: 8px 20px;
+            border-top: 1px solid rgba(154, 154, 154, 0.75);
+            border-right: 1px solid rgba(154, 154, 154, 0.75);
+          }
+      
+          table#your-table-items tbody td img {
+            width: 50px;
+            margin: 0 10px 0 0;
+            border: 1px solid rgba(154, 154, 154, 0.75);
+          }
+  
+  
+        
+        

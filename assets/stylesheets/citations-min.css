@@ -13,27 +13,8 @@
  .title-1 {
      color: black;
      font-size: 48;
-     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-family: 'Mulish', sans-serif;
  }
-
- .title-2 {
-     color: white;
-     font-size: 16;
-     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  }
-
-  .title-4 {
-     color: goldenrod;
-     font-size: 30;
-     font-family: 'Mulish', sans-serif;
-  }
-
-  .title-5 {
-     color: black;
-     font-size: 48;
-     font-family: 'Mulish', sans-serif;
-  }
-
 
   .navbar {
      width: 10%;
@@ -57,15 +38,16 @@
   }
 
   .bodytext {
-    width: 85%;
+    width: 100%;
     height: 85%;
     position: fixed;
-    padding-right: 50px;
     bottom: 0;
     right: 0;
-    float: left;
-    text-align: left;
+    float: right;
+    text-align: center;
     overflow: auto;
+    font-family: 'Mulish', sans-serif;
+
  }
 
   .picbody {
@@ -89,10 +71,12 @@
   .ul {
      list-style-type: none;
      margin: 0;
-     padding-left: 30%;
+     width: 90%;
      padding-bottom: 150px;
-     text-align: right;
-     font-family: 'Montserrat', sans-serif;
+     float: right;
+     text-align: left;
+     font-family: 'Mulish', sans-serif;
+     color: maroon;
      }
 
  .homeicon {

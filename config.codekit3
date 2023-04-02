@@ -33,12 +33,28 @@
       "oAP" : "\/assets\/fonts\/.gitkeep",
       "oF" : 0
     },
+    "\/assets\/images\/.bandw.png.icloud" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/.bandw.png.icloud",
+      "oF" : 0
+    },
     "\/assets\/images\/.gitkeep" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/images\/.gitkeep",
+      "oF" : 0
+    },
+    "\/assets\/images\/.underwater.png.icloud" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/.underwater.png.icloud",
       "oF" : 0
     },
     "\/assets\/images\/3d-about-head2.png" : {
@@ -160,7 +176,7 @@
     },
     "\/assets\/images\/filedbig.png" : {
       "ft" : 32768,
-      "iS" : 343595,
+      "iS" : 216468,
       "oA" : 0,
       "oAP" : "\/assets\/images\/filedbig.png",
       "oF" : 0,
@@ -210,6 +226,97 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/assets\/images\/lb1.png" : {
+      "ft" : 32768,
+      "iS" : 405932,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/lb1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/lb2.png" : {
+      "ft" : 32768,
+      "iS" : 1118615,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/lb2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/lb6.png" : {
+      "ft" : 32768,
+      "iS" : 479341,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/lb6.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/lb7.png" : {
+      "ft" : 32768,
+      "iS" : 1077354,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/lb7.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/lb8.png" : {
+      "ft" : 32768,
+      "iS" : 914367,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/lb8.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/lb9.png" : {
+      "ft" : 32768,
+      "iS" : 841482,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/lb9.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/pagecovernew.png" : {
+      "ft" : 32768,
+      "iS" : 3826879,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/pagecovernew.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/assets\/images\/saltyspitoon.png" : {
       "ft" : 32768,
       "iS" : 638607,
@@ -236,11 +343,102 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/assets\/images\/tn1.png" : {
+      "ft" : 32768,
+      "iS" : 110107,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/tn1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/tn2.png" : {
+      "ft" : 32768,
+      "iS" : 151050,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/tn2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/tn6.png" : {
+      "ft" : 32768,
+      "iS" : 114812,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/tn6.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/tn7.png" : {
+      "ft" : 32768,
+      "iS" : 149491,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/tn7.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/tn8.png" : {
+      "ft" : 32768,
+      "iS" : 125477,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/tn8.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/tn9.png" : {
+      "ft" : 32768,
+      "iS" : 118595,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/tn9.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/assets\/images\/vdaycarnival.png" : {
       "ft" : 32768,
       "iS" : 366132,
       "oA" : 0,
       "oAP" : "\/assets\/images\/vdaycarnival.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/images\/wallpaper.png" : {
+      "ft" : 32768,
+      "iS" : 659363,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/wallpaper.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -270,13 +468,38 @@
       "oAP" : "\/assets\/javascripts\/.gitkeep",
       "oF" : 0
     },
-    "\/assets\/javascripts\/navflex" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/assets\/javascripts\/lightbox-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/assets\/javascripts\/navflex",
-      "oF" : 0
+      "oAP" : "\/assets\/javascripts\/lightbox-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/assets\/javascripts\/lightbox-plus-jquery.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/assets\/javascripts\/lightbox-plus-jquery.min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/assets\/javascripts\/navflex.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/assets\/javascripts\/navflex-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
     },
     "\/assets\/stylesheets\/aboutstyle-min.css" : {
       "aP" : 1,
@@ -302,6 +525,30 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/assets\/stylesheets\/citations-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/stylesheets\/citations-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/assets\/stylesheets\/citations.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/stylesheets\/citations-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/assets\/stylesheets\/cuisinestyle-min.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -323,6 +570,78 @@
       "ma" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/stylesheets\/cuisinestyle-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/assets\/stylesheets\/nature-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/stylesheets\/nature-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/assets\/stylesheets\/nature.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/stylesheets\/nature-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/assets\/stylesheets\/photos-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/stylesheets\/photos-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/assets\/stylesheets\/photos.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/stylesheets\/photos-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/assets\/stylesheets\/play-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/stylesheets\/play-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/assets\/stylesheets\/play.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/stylesheets\/play-min.css",
       "oF" : 0,
       "pg" : 0
     },
@@ -358,109 +677,20 @@
       "oAP" : "\/assets\/videos\/.gitkeep",
       "oF" : 0
     },
+    "\/citations.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/citations.html",
+      "oF" : 0
+    },
     "\/cuisine.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/cuisine.html",
-      "oF" : 0
-    },
-    "\/detailedflex.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/detailedflex.html",
-      "oF" : 0
-    },
-    "\/final-project-starter-nav-sidebar 2\/assets\/images\/dish-01.png" : {
-      "ft" : 32768,
-      "iS" : 121725,
-      "oA" : 0,
-      "oAP" : "\/final-project-starter-nav-sidebar 2\/assets\/images\/dish-01.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/final-project-starter-nav-sidebar 2\/assets\/stylesheets\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/final-project-starter-nav-sidebar 2\/assets\/stylesheets\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/final-project-starter-nav-sidebar 2\/detailedflex.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/final-project-starter-nav-sidebar 2\/detailedflex.html",
-      "oF" : 0
-    },
-    "\/final-project-starter-nav-sidebar 2\/page-2.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/final-project-starter-nav-sidebar 2\/page-2.html",
-      "oF" : 0
-    },
-    "\/final-project-starter-nav-sidebar 2\/page-3.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/final-project-starter-nav-sidebar 2\/page-3.html",
-      "oF" : 0
-    },
-    "\/final-project-starter-nav-sidebar 2\/page-4.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/final-project-starter-nav-sidebar 2\/page-4.html",
-      "oF" : 0
-    },
-    "\/final-project-starter-nav-sidebar 2\/page-5.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/final-project-starter-nav-sidebar 2\/page-5.html",
-      "oF" : 0
-    },
-    "\/final-project-starter-nav-sidebar 2\/page-6.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/final-project-starter-nav-sidebar 2\/page-6.html",
-      "oF" : 0
-    },
-    "\/flex-display-simple.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/flex-display-simple.html",
-      "oF" : 0
-    },
-    "\/images-and-text-03-starter.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/images-and-text-03-starter.html",
       "oF" : 0
     },
     "\/index.html" : {
@@ -471,12 +701,12 @@
       "oAP" : "\/index.html",
       "oF" : 0
     },
-    "\/media-queries.html" : {
+    "\/lightbox-jquery-01.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/media-queries.html",
+      "oAP" : "\/lightbox-jquery-01.html",
       "oF" : 0
     },
     "\/nature.html" : {
@@ -521,14 +751,6 @@
       "pME" : 1,
       "rFN" : 0,
       "uCM" : 0
-    },
-    "\/vertical-center-padding-flex.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/vertical-center-padding-flex.html",
-      "oF" : 0
     }
   },
   "hooks" : [

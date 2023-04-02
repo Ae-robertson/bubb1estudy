@@ -30,7 +30,7 @@
   }
 
   body {
-    background-image: url(assets/images/atollcover.png);
+    background-image: url(../images/atollcover.png);  /* pam updated */
     color: ffffff;
     background-size: cover;
     display: flex;
@@ -43,7 +43,8 @@
     height: 150px;
     float: right;
     text-align: center;
-    background-image: url(assets/images/header.png);
+    /* abby original background-image: url(/assets/images/header.png); */
+    background-image: url(../images/header.png);  /* pam updated */
   }
 
   .ul {
@@ -71,33 +72,49 @@
   a {
     color: navy;
     text-decoration: none;
-    font-family: 'Exo', sans-serif;
+    font-family: 'Mulish', sans-serif;
     font-size: large;
   }
 
   .flex-container {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-evenly;
-  padding: 0;
-}
-
-.flex-container>div {
-  width: 20%;
-  padding: 5px;
-}
-
-
-@media screen and (max-width: 750px) {
-  .flex-container>div {
-    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 0;
   }
-}
-
-
-@media screen and (max-width: 500px) {
+  
   .flex-container>div {
-    width: 45%;
+    width: 20%;
+    padding: 5px;
   }
-}
+  
+  /* pam added */
+  .navbar-toggler {
+    display: none;
+  }
+  
+  
+  @media screen and (max-width: 750px) {
+    .flex-container>div {
+      width: 30%;
+    }
+  }
+  
+  
+  @media screen and (max-width: 500px) {
+    .flex-container>div {
+      width: 45%;
+    }
+  
+    /* pam added */
+    .navbar-toggler {
+      position: absolute;
+      top: 10px;
+      display: block;
+    }
+
+    article {
+      display: none;
+    }
+  }
